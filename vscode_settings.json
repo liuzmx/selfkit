@@ -1,0 +1,16 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.fontFamily": "MesloLGS NF",
+    "editor.fontSize": 13,
+    "editor.lineHeight": 2,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.productIconTheme": "material-product-icons",
+    "workbench.colorTheme": "GitHub Dark",
+    "tabnine.experimentalAutoImports": true,
+    "python.analysis.extraPaths": [],
+    "python.analysis.completeFunctionParens": true,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.fontSize": 12,
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "terminal.integrated.lineHeight": 1.4
+}

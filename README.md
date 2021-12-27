@@ -3,3 +3,6 @@ A small configuration toolkit, containing some tool software configuration infor
 
 ## p10k.zsh
 configuration file of zsh theme [powerlevel10k](https://github.com/topics/powerlevel10k) 
+
+## vscode_settings.json
+configuration file of vscode [settings.json](https://code.visualstudio.com/) 

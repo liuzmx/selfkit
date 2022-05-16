@@ -1,3 +1,5 @@
+" vim配置文件（~/.vimrc）
+
 " 语法高亮
 syntax on
 

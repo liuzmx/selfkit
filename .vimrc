@@ -1,5 +1,8 @@
 " vim配置文件（~/.vimrc）
 
+" 编码
+set encoding=utf8
+
 " 语法高亮
 syntax on
 

@@ -4,6 +4,9 @@ A small configuration toolkit, containing some tool software configuration infor
 ## .vimrc
 configuration file of vim, can refer [Vim 配置入门-阮一峰的网络日志](https://www.ruanyifeng.com/blog/2018/09/vimrc.html)
 
+## [OneHalfDark.xcs](./OneHalfDark.xcs)
+xShell OneHalfdark Theme.
+
 ## clean_macos_files.py
 Delete property files (e.g. `.DS_Store`,`.__xx`, `._.DS_Store`) from the Macos system folder
 

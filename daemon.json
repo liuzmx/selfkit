@@ -1,6 +1,15 @@
 {
   "registry-mirrors": [
     "https://docker.1ms.run",
-    "https://docker.xuanyuan.me"
+    "https://docker.xuanyuan.me",
+    "https://docker.m.daocloud.io",
+    "https://dockerproxy.link",
+    "https://dockerproxy.net",
+    "https://docker.mybacc.com",
+    "https://dytt.online",
+    "https://lispy.org",
+    "https://docker.xiaogenban1993.com",
+    "https://docker.yomansunter.com",
+    "https://aicarbon.xyz"
   ]
 }

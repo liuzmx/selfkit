@@ -10,6 +10,9 @@ xShell OneHalfdark Theme.
 ## [clean_macos_files.py](clean_macos_files.py)
 Delete property files (e.g. `.DS_Store`,`.__xx`, `._.DS_Store`) from the Macos system folder
 
+## [daemon.json](./daemon.json)
+Docker mirrors config, os path: `/etc/docker/daemon.json`
+
 ## [oh-my-posh-theme.json](oh-my-posh-theme.json)
 custom theme for `oh-my-posh` 'custom theme, refer to the powerlevel 10k theme of' oh my zsh '
 
